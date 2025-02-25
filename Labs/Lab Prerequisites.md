@@ -15,7 +15,7 @@ These instructions guide you through setting up your developer workstation. They
    - Data storage and processing
 1. On the **Individual components** tab, ensure the following are selected and add if required:
    - .NET 8.0 Runtime (Long Term Support)
-   - .NET 6.0 Runtime (Long Term Support)
+   - .NET 6.0 Runtime (Out of support)
    - .NET Aspire SDK 
    - .NET Framework 4.6.2 SDK
    - .NET Framework 4.6.2 targeting pack
